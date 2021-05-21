@@ -1,0 +1,8 @@
+string command
+int64[] args
+---
+bool rvBool
+int64 rvInt
+float64 rvFloat
+string rvString
+
